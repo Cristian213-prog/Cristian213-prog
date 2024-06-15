@@ -1,6 +1,7 @@
 ### Hola 👋, Mi nombre es Cristian Zenon Remache Sihuincha
 #### Soy creador de GitHub Readme Generator
-![Soy creador de GitHub Readme Generator](https://github.com/Cristian213-prog)
+
+![d](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Soy bachiller de la carrera de Ingeniería Industrial y de Sistemas en la Universidad de Piura. Con más de 6 meses de experiencia laboral.Profesional que me destaco en la responsabilidad, colaboración, trabajo en equipo y perseverancia. Pueden comunicarme  para apoyar en cualquier proyecto relacionado en desarrollo de software o creación de sitios web.
 
@@ -15,8 +16,6 @@ Habilidades: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-
 - 😄 Pronombres: Colaborativo , perseverante , mejora de procesos, innovación y creatividad 
 - ⚡ Dato curioso: Me gusta ayudar 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Cristian213-prog)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/cristian-zenon-remache-sihuincha//)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
